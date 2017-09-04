@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SURVIVAL_SHOOTER_WebGl.data.unityweb",
+"asmCodeUrl": "SURVIVAL_SHOOTER_WebGl.asm.code.unityweb",
+"asmMemoryUrl": "SURVIVAL_SHOOTER_WebGl.asm.memory.unityweb",
+"asmFrameworkUrl": "SURVIVAL_SHOOTER_WebGl.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
